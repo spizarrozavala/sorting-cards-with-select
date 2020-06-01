@@ -1,0 +1,30 @@
+body {
+    background-color: green;
+}
+.segundaLinea{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.segundaLinea .card {
+    width: 60px;
+    height: 90px;
+    background-color: white;
+    border-radius: 10%;
+    margin: 4px;
+}
+.cuartaLinea{
+    width: 100%;
+    height: 100%;
+}
+.orderLine{
+    display: flex;
+    margin: 4px;
+}
+.cuartaLinea .card{
+    width: 60px;
+    height: 90px;
+    background-color: white;
+    border-radius: 10%;
+    margin: 4px;
+}
